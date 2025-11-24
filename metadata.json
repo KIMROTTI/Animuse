@@ -1,0 +1,5 @@
+{
+  "name": "Animuse",
+  "description": "An AI-powered BGM generator for animators. Describe your scene, and Animuse composes a soundtrack using Tone.js.",
+  "requestFramePermissions": []
+}
